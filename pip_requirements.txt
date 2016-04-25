@@ -1,6 +1,7 @@
 BeautifulSoup==3.2.1
 Unidecode==0.04.9
 beautifulsoup4==4.3.2
+bormeparser==0.2
 errorhandler==1.1.1
 mechanize==0.2.5
 pdfminer==20140328
@@ -18,4 +19,3 @@ Scrapy==0.22
 scraperwiki==0.4.1
 PyYAML==3.11
 xlrd==0.9.3
-bormeparser==0.1.5
