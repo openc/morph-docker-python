@@ -8,4 +8,3 @@ Login to the VPN, then:
     cd ~/morph-docker-python
     git pull --rebase
     docker build --no-cache -t opencorporates/morph-python .
-    docker push opencorporates/morph-python
