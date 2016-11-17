@@ -1,5 +1,5 @@
 FROM opencorporates/morph-ruby
-MAINTAINER Seb Bacon <seb@opencorporates.com>
+MAINTAINER OpenCorporates <tech@opencorporates.com>
 USER root
 # Volume for sharing wrapper script
 VOLUME /utils
