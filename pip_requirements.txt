@@ -13,7 +13,7 @@ python-stdnum==0.7
 requests==2.3.0
 simplejson==2.2.1
 turbotlib==0.0.10
-lxml==3.3.5
+lxml==3.4.4
 pyquery==1.2.8
 Scrapy==0.22
 scraperwiki==0.5.1
