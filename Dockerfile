@@ -1,4 +1,4 @@
-FROM opencorporates/morph-ruby
+FROM docker-registry.opencorporates.com/opencorporates/morph-ruby
 MAINTAINER OpenCorporates <tech@opencorporates.com>
 USER root
 # Volume for sharing wrapper script
