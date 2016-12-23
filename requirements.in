@@ -2,6 +2,7 @@ BeautifulSoup==3.2.1
 Unidecode==0.04.9
 beautifulsoup4==4.3.2
 bormeparser==0.2.3
+certifi
 errorhandler==1.1.1
 mechanize==0.2.5
 pdfminer==20140328
@@ -10,7 +11,7 @@ python-dateutil==1.5
 python-gflags==2.0
 python-modargs==1.2
 python-stdnum==0.7
-requests==2.3.0
+requests==2.4.3
 simplejson==2.2.1
 turbotlib==0.0.10
 lxml==3.4.4

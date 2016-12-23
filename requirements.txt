@@ -8,6 +8,7 @@ alembic==0.8.9            # via scraperwiki
 beautifulsoup4==4.3.2
 BeautifulSoup==3.2.1
 bormeparser==0.2.3
+certifi==2016.9.26
 cffi==1.9.1               # via cryptography
 constantly==15.1.0        # via twisted
 cryptography==1.7.1       # via pyopenssl
@@ -39,7 +40,7 @@ python-modargs==1.2
 python-stdnum==0.7
 PyYAML==3.11
 queuelib==1.4.2           # via scrapy
-requests==2.3.0
+requests==2.4.3
 scraperwiki==0.5.1
 Scrapy==0.22
 simplejson==2.2.1
