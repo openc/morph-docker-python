@@ -14,8 +14,8 @@ RUN wget https://bootstrap.pypa.io/get-pip.py; python get-pip.py
 # This needs to be installed first
 RUN pip install numpy==1.6.1
 
-ADD pip_requirements.txt /etc/pip_requirements.txt
-RUN pip install -r /etc/pip_requirements.txt
+ADD requirements.txt /etc/requirements.txt
+RUN pip install -r /etc/requirements.txt
 
 # poppler-utils has a more recent pdftohtml than the pdftohtml package
 RUN apt-get -y install poppler-utils
