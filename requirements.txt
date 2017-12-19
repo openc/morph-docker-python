@@ -37,7 +37,7 @@ python-editor==1.0.3      # via alembic
 python-gflags==2.0
 python-Levenshtein==0.10.2
 python-modargs==1.2
-python-stdnum==0.7
+python-stdnum==1.0
 PyYAML==3.11
 queuelib==1.4.2           # via scrapy
 requests==2.4.3
@@ -55,5 +55,4 @@ xlrd==0.9.3
 zope.interface==4.3.3     # via twisted
 
 # The following packages are considered to be unsafe in a requirements file:
-# distribute                # via python-stdnum
-# setuptools                # via cryptography, distribute, python-levenshtein, zope.interface
+# setuptools                # via cryptography, python-levenshtein, zope.interface
