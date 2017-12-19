@@ -10,7 +10,7 @@ python-Levenshtein==0.10.2
 python-dateutil==1.5
 python-gflags==2.0
 python-modargs==1.2
-python-stdnum==0.7
+python-stdnum==1.0
 requests==2.4.3
 simplejson==2.2.1
 turbotlib==0.0.10
