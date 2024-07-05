@@ -40,7 +40,7 @@ python-modargs==1.2
 python-stdnum==1.0
 PyYAML==3.11
 queuelib==1.4.2           # via scrapy
-requests==2.4.3
+requests==2.20
 scraperwiki==0.5.1
 Scrapy==0.22
 simplejson==2.2.1
