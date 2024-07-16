@@ -56,3 +56,4 @@ zope.interface==4.3.3     # via twisted
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools                # via cryptography, python-levenshtein, zope.interface
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
